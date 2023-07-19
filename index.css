@@ -45,9 +45,17 @@
 .container h2{
     margin: 0;
 }
-.main{
-    background-color:slateblue ;
-    color:springgreen;
+.main1{
+    background-color:aqua ;
+    color:tomato;
+}
+.main2{
+    background-color: burlywood;
+    color: blue;
+}
+.main3{
+    background-color:cadetblue;
+    color:brown;
 }
 @media screen and (max-width:767px){
     div.container{
